@@ -1,2 +1,2 @@
-# SquideGame-LandingPage
+# SquideGame LandingPage
 Red Light 🛑 Green Light ✅
